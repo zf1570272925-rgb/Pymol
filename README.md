@@ -11,7 +11,4 @@
 - Python 3.8+
 - PyMOL 2.5+
 - 需要的库（如果有）：`numpy`, `pandas` 等
-安装依赖：
-```bash
-pip install -r requirements.txt
 
